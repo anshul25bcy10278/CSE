@@ -1,6 +1,4 @@
-📜 Statement of Work: Rock, Paper, Scissors Game
 
-This Statement of Work (SoW) outlines the scope, deliverables, and requirements for the development of a basic Rock, Paper, Scissors game.
 
 1. Introduction and Goals
 
@@ -37,10 +35,10 @@ The project will include the development of a core game engine and a simple user
 3. Deliverables
 
 The final delivery will include the following artifacts:
-Deliverable	Description
+Deliverable	        Description
 Game Source Code	Fully commented and functional source code for the game logic and interface.
 User Instructions	A brief guide on how to run and interact with the game.
-Testing Report	A basic report confirming that all core game logic (all 9 possible outcomes: 3 Wins, 3 Losses, 3 Draws) functions correctly.
+Testing Report    	A basic report confirming that all core game logic (all 9 possible outcomes: 3 Wins, 3 Losses, 3 Draws) functions correctly.
 
 4. Technical Requirements
 
